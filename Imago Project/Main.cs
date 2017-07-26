@@ -13,14 +13,14 @@ using System.Diagnostics;
 
 namespace Imago_Project
 {
-    public partial class Form1 : Form
+    public partial class Main : Form
     {
-        
+
         Die die;
         List<Player> players = new List<Player>();
         bool theEnd = false;
-        
-        public Form1()
+
+        public Main()
         {
 
             InitializeComponent();
@@ -50,7 +50,7 @@ namespace Imago_Project
                 InitRoll();
                 InitRoll();
                 InitRoll();
-                for (int i =0; i < players.Count;  ++i) Debug.Write(players[i].AP + " ");
+                for (int i = 0; i < players.Count; ++i) Debug.Write(players[i].AP + " ");
                 break;
             }
         }
@@ -70,7 +70,7 @@ namespace Imago_Project
                 int roll2 = die.Roll();
                 players[i].AP = roll1 + roll2;
                 DisplayText("Player " + players[i].Count + " rolled: " + roll1 + " + " + roll2);
-                
+
             }
             //Debug.Write("\n");
             players = players.OrderByDescending(p => p.AP).ToList();

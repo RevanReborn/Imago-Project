@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace Imago_Project
 {
-    abstract class Action
+    class Action : Style
     {
-        public int id;
-        public string name;
-        public int cost;
-        public bool reaction;
-
+        private int id;
+        private string name;
+        private int cost;
+        private bool reaction;
     }
 }

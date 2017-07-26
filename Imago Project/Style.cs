@@ -11,6 +11,8 @@ namespace Imago_Project
         public int styleID;
         public string styleName;
         public int level = 1;
+        public List<Action> actions = new List<Action>();
+        
 
     }
 }
