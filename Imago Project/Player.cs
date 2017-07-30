@@ -14,6 +14,8 @@ namespace Imago_Project
         int ap = 0;
         bool fatum;
         Style playerStyle;
+        Classic baseStyle;
+        int skill = 1;
 
         public int Count
         {
@@ -45,15 +47,26 @@ namespace Imago_Project
             set { fatum = value; }
         }
 
-        public Player(int Count, int Team, bool Fatum)
+        public int Skill
+        {
+            get { return skill; }
+            set { skill = value; }
+        }
+
+        public Player(int Count, int Team)
         {
             this.count = Count;
             this.team = Team;
+            baseStyle = new Classic(this.count, 1);
+            this.skill = baseStyle.level;
+        }
+
+        public void SetFatum (bool Fatum)
+        {
             this.fatum = Fatum;
             if (Fatum)
                 this.hp = 12;
             else this.hp = 10;
-
         }
 
 
