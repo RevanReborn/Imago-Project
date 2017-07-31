@@ -10,7 +10,7 @@ namespace Imago_Project
     {
         int count;
         int team;
-        int hp;
+        int hp = 10;
         int ap = 0;
         bool fatum;
         Style playerStyle;

@@ -230,76 +230,76 @@
             this.buttonLeft12 = new System.Windows.Forms.Button();
             this.toolStrip1 = new System.Windows.Forms.ToolStrip();
             this.toolStripButton1 = new System.Windows.Forms.ToolStripButton();
+            this.toolStripComboBox1 = new System.Windows.Forms.ToolStripComboBox();
             this.toolStripButton2 = new System.Windows.Forms.ToolStripButton();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.battleBox = new System.Windows.Forms.GroupBox();
             this.BattleLog = new System.Windows.Forms.ListBox();
-            this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.button5 = new System.Windows.Forms.Button();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.fatButt1 = new System.Windows.Forms.Button();
             this.checkBox1 = new System.Windows.Forms.CheckBox();
-            this.comboBox13 = new System.Windows.Forms.ComboBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.targetBox1 = new System.Windows.Forms.ComboBox();
+            this.apBox1 = new System.Windows.Forms.TextBox();
             this.label10 = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.comboBox10 = new System.Windows.Forms.ComboBox();
+            this.hpBox1 = new System.Windows.Forms.TextBox();
+            this.actionBox1 = new System.Windows.Forms.ComboBox();
             this.label6 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.comboBox2 = new System.Windows.Forms.ComboBox();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.groupBox3 = new System.Windows.Forms.GroupBox();
-            this.button7 = new System.Windows.Forms.Button();
-            this.checkBox4 = new System.Windows.Forms.CheckBox();
-            this.comboBox14 = new System.Windows.Forms.ComboBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.lvlBox1 = new System.Windows.Forms.ComboBox();
+            this.styleBox1 = new System.Windows.Forms.ComboBox();
+            this.finButt1 = new System.Windows.Forms.Button();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.fatButt2 = new System.Windows.Forms.Button();
+            this.checkBox2 = new System.Windows.Forms.CheckBox();
+            this.targetBox2 = new System.Windows.Forms.ComboBox();
+            this.hpBox2 = new System.Windows.Forms.TextBox();
             this.label11 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
-            this.textBox5 = new System.Windows.Forms.TextBox();
-            this.comboBox11 = new System.Windows.Forms.ComboBox();
+            this.apBox2 = new System.Windows.Forms.TextBox();
+            this.actionBox2 = new System.Windows.Forms.ComboBox();
             this.label7 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.comboBox3 = new System.Windows.Forms.ComboBox();
-            this.comboBox4 = new System.Windows.Forms.ComboBox();
-            this.button3 = new System.Windows.Forms.Button();
-            this.groupBox4 = new System.Windows.Forms.GroupBox();
-            this.button6 = new System.Windows.Forms.Button();
-            this.checkBox2 = new System.Windows.Forms.CheckBox();
-            this.comboBox15 = new System.Windows.Forms.ComboBox();
-            this.textBox6 = new System.Windows.Forms.TextBox();
-            this.comboBox9 = new System.Windows.Forms.ComboBox();
+            this.lvlBox2 = new System.Windows.Forms.ComboBox();
+            this.styleBox2 = new System.Windows.Forms.ComboBox();
+            this.finButt2 = new System.Windows.Forms.Button();
+            this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.fatButt3 = new System.Windows.Forms.Button();
+            this.checkBox3 = new System.Windows.Forms.CheckBox();
+            this.targetBox3 = new System.Windows.Forms.ComboBox();
+            this.hpBox3 = new System.Windows.Forms.TextBox();
+            this.actionBox3 = new System.Windows.Forms.ComboBox();
             this.label13 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label14 = new System.Windows.Forms.Label();
-            this.textBox7 = new System.Windows.Forms.TextBox();
+            this.apBox3 = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
-            this.comboBox5 = new System.Windows.Forms.ComboBox();
-            this.comboBox6 = new System.Windows.Forms.ComboBox();
-            this.button2 = new System.Windows.Forms.Button();
-            this.groupBox5 = new System.Windows.Forms.GroupBox();
-            this.button8 = new System.Windows.Forms.Button();
-            this.checkBox3 = new System.Windows.Forms.CheckBox();
-            this.comboBox16 = new System.Windows.Forms.ComboBox();
-            this.textBox8 = new System.Windows.Forms.TextBox();
-            this.comboBox12 = new System.Windows.Forms.ComboBox();
+            this.lvlBox3 = new System.Windows.Forms.ComboBox();
+            this.styleBox3 = new System.Windows.Forms.ComboBox();
+            this.finButt3 = new System.Windows.Forms.Button();
+            this.groupBox4 = new System.Windows.Forms.GroupBox();
+            this.fatButt4 = new System.Windows.Forms.Button();
+            this.checkBox4 = new System.Windows.Forms.CheckBox();
+            this.targetBox4 = new System.Windows.Forms.ComboBox();
+            this.hpBox4 = new System.Windows.Forms.TextBox();
+            this.actionBox4 = new System.Windows.Forms.ComboBox();
             this.label15 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.label16 = new System.Windows.Forms.Label();
-            this.textBox9 = new System.Windows.Forms.TextBox();
+            this.apBox4 = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
-            this.comboBox7 = new System.Windows.Forms.ComboBox();
-            this.button4 = new System.Windows.Forms.Button();
-            this.comboBox8 = new System.Windows.Forms.ComboBox();
+            this.lvlBox4 = new System.Windows.Forms.ComboBox();
+            this.finButt4 = new System.Windows.Forms.Button();
+            this.styleBox4 = new System.Windows.Forms.ComboBox();
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
             this.toolStripStatusLabel1 = new System.Windows.Forms.ToolStripStatusLabel();
-            this.toolStripComboBox1 = new System.Windows.Forms.ToolStripComboBox();
             this.menuStrip1.SuspendLayout();
             this.tableLayoutPanel1.SuspendLayout();
             this.toolStrip1.SuspendLayout();
+            this.battleBox.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
             this.groupBox4.SuspendLayout();
-            this.groupBox5.SuspendLayout();
             this.statusStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -3008,6 +3008,17 @@
             this.toolStripButton1.Text = "Start";
             this.toolStripButton1.Click += new System.EventHandler(this.toolStripButton1_Click);
             // 
+            // toolStripComboBox1
+            // 
+            this.toolStripComboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.toolStripComboBox1.Items.AddRange(new object[] {
+            "2 players",
+            "3 players",
+            "4 players"});
+            this.toolStripComboBox1.MaxDropDownItems = 3;
+            this.toolStripComboBox1.Name = "toolStripComboBox1";
+            this.toolStripComboBox1.Size = new System.Drawing.Size(75, 25);
+            // 
             // toolStripButton2
             // 
             this.toolStripButton2.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Text;
@@ -3016,56 +3027,57 @@
             this.toolStripButton2.Name = "toolStripButton2";
             this.toolStripButton2.Size = new System.Drawing.Size(63, 22);
             this.toolStripButton2.Text = "Force End";
+            this.toolStripButton2.Click += new System.EventHandler(this.toolStripButton2_Click);
             // 
-            // groupBox1
+            // battleBox
             // 
-            this.groupBox1.Controls.Add(this.BattleLog);
-            this.groupBox1.Location = new System.Drawing.Point(200, 479);
-            this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(547, 138);
-            this.groupBox1.TabIndex = 4;
-            this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Battle Log";
+            this.battleBox.Controls.Add(this.BattleLog);
+            this.battleBox.Location = new System.Drawing.Point(200, 479);
+            this.battleBox.Name = "battleBox";
+            this.battleBox.Size = new System.Drawing.Size(547, 138);
+            this.battleBox.TabIndex = 4;
+            this.battleBox.TabStop = false;
+            this.battleBox.Text = "Battle Log";
             // 
             // BattleLog
             // 
             this.BattleLog.FormattingEnabled = true;
             this.BattleLog.Location = new System.Drawing.Point(5, 16);
-            this.BattleLog.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.BattleLog.Margin = new System.Windows.Forms.Padding(2);
             this.BattleLog.Name = "BattleLog";
             this.BattleLog.Size = new System.Drawing.Size(537, 108);
             this.BattleLog.TabIndex = 3;
             // 
-            // groupBox2
+            // groupBox1
             // 
-            this.groupBox2.Controls.Add(this.button5);
-            this.groupBox2.Controls.Add(this.checkBox1);
-            this.groupBox2.Controls.Add(this.comboBox13);
-            this.groupBox2.Controls.Add(this.textBox3);
-            this.groupBox2.Controls.Add(this.label10);
-            this.groupBox2.Controls.Add(this.label9);
-            this.groupBox2.Controls.Add(this.textBox2);
-            this.groupBox2.Controls.Add(this.comboBox10);
-            this.groupBox2.Controls.Add(this.label6);
-            this.groupBox2.Controls.Add(this.label1);
-            this.groupBox2.Controls.Add(this.comboBox2);
-            this.groupBox2.Controls.Add(this.comboBox1);
-            this.groupBox2.Controls.Add(this.button1);
-            this.groupBox2.Location = new System.Drawing.Point(12, 52);
-            this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(182, 276);
-            this.groupBox2.TabIndex = 5;
-            this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Red Player 1";
+            this.groupBox1.Controls.Add(this.fatButt1);
+            this.groupBox1.Controls.Add(this.checkBox1);
+            this.groupBox1.Controls.Add(this.targetBox1);
+            this.groupBox1.Controls.Add(this.apBox1);
+            this.groupBox1.Controls.Add(this.label10);
+            this.groupBox1.Controls.Add(this.label9);
+            this.groupBox1.Controls.Add(this.hpBox1);
+            this.groupBox1.Controls.Add(this.actionBox1);
+            this.groupBox1.Controls.Add(this.label6);
+            this.groupBox1.Controls.Add(this.label1);
+            this.groupBox1.Controls.Add(this.lvlBox1);
+            this.groupBox1.Controls.Add(this.styleBox1);
+            this.groupBox1.Controls.Add(this.finButt1);
+            this.groupBox1.Location = new System.Drawing.Point(12, 52);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(182, 276);
+            this.groupBox1.TabIndex = 5;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "Red Player 1";
             // 
-            // button5
+            // fatButt1
             // 
-            this.button5.Location = new System.Drawing.Point(6, 247);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(75, 23);
-            this.button5.TabIndex = 16;
-            this.button5.Text = "Use Fatum";
-            this.button5.UseVisualStyleBackColor = true;
+            this.fatButt1.Location = new System.Drawing.Point(6, 247);
+            this.fatButt1.Name = "fatButt1";
+            this.fatButt1.Size = new System.Drawing.Size(75, 23);
+            this.fatButt1.TabIndex = 16;
+            this.fatButt1.Text = "Use Fatum";
+            this.fatButt1.UseVisualStyleBackColor = true;
             // 
             // checkBox1
             // 
@@ -3079,30 +3091,30 @@
             this.checkBox1.Text = "Fatum";
             this.checkBox1.UseVisualStyleBackColor = true;
             // 
-            // comboBox13
+            // targetBox1
             // 
-            this.comboBox13.FormattingEnabled = true;
-            this.comboBox13.Location = new System.Drawing.Point(133, 180);
-            this.comboBox13.Name = "comboBox13";
-            this.comboBox13.Size = new System.Drawing.Size(38, 21);
-            this.comboBox13.Sorted = true;
-            this.comboBox13.TabIndex = 13;
-            this.comboBox13.Tag = "Target";
+            this.targetBox1.FormattingEnabled = true;
+            this.targetBox1.Location = new System.Drawing.Point(133, 180);
+            this.targetBox1.Name = "targetBox1";
+            this.targetBox1.Size = new System.Drawing.Size(38, 21);
+            this.targetBox1.Sorted = true;
+            this.targetBox1.TabIndex = 13;
+            this.targetBox1.Tag = "Target";
             // 
-            // textBox3
+            // apBox1
             // 
-            this.textBox3.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.apBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox3.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox3.Font = new System.Drawing.Font("Courier New", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox3.Location = new System.Drawing.Point(73, 66);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.ReadOnly = true;
-            this.textBox3.Size = new System.Drawing.Size(54, 20);
-            this.textBox3.TabIndex = 12;
-            this.textBox3.Tag = "AP";
-            this.textBox3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.apBox1.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.apBox1.Font = new System.Drawing.Font("Courier New", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.apBox1.Location = new System.Drawing.Point(73, 66);
+            this.apBox1.Name = "apBox1";
+            this.apBox1.ReadOnly = true;
+            this.apBox1.Size = new System.Drawing.Size(54, 20);
+            this.apBox1.TabIndex = 12;
+            this.apBox1.Tag = "AP";
+            this.apBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // label10
             // 
@@ -3122,30 +3134,30 @@
             this.label9.TabIndex = 10;
             this.label9.Text = "Endurance:";
             // 
-            // textBox2
+            // hpBox1
             // 
-            this.textBox2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.hpBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox2.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox2.Font = new System.Drawing.Font("Courier New", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox2.Location = new System.Drawing.Point(73, 27);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.ReadOnly = true;
-            this.textBox2.Size = new System.Drawing.Size(54, 20);
-            this.textBox2.TabIndex = 9;
-            this.textBox2.Tag = "HP";
-            this.textBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.hpBox1.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.hpBox1.Font = new System.Drawing.Font("Courier New", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.hpBox1.Location = new System.Drawing.Point(73, 27);
+            this.hpBox1.Name = "hpBox1";
+            this.hpBox1.ReadOnly = true;
+            this.hpBox1.Size = new System.Drawing.Size(54, 20);
+            this.hpBox1.TabIndex = 9;
+            this.hpBox1.Tag = "HP";
+            this.hpBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // comboBox10
+            // actionBox1
             // 
-            this.comboBox10.FormattingEnabled = true;
-            this.comboBox10.Location = new System.Drawing.Point(6, 180);
-            this.comboBox10.Name = "comboBox10";
-            this.comboBox10.Size = new System.Drawing.Size(121, 21);
-            this.comboBox10.Sorted = true;
-            this.comboBox10.TabIndex = 8;
-            this.comboBox10.Tag = "Action";
+            this.actionBox1.FormattingEnabled = true;
+            this.actionBox1.Location = new System.Drawing.Point(6, 180);
+            this.actionBox1.Name = "actionBox1";
+            this.actionBox1.Size = new System.Drawing.Size(121, 21);
+            this.actionBox1.Sorted = true;
+            this.actionBox1.TabIndex = 8;
+            this.actionBox1.Tag = "Action";
             // 
             // label6
             // 
@@ -3165,102 +3177,103 @@
             this.label1.TabIndex = 3;
             this.label1.Text = "Technique and Rank";
             // 
-            // comboBox2
+            // lvlBox1
             // 
-            this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Location = new System.Drawing.Point(133, 120);
-            this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(38, 21);
-            this.comboBox2.Sorted = true;
-            this.comboBox2.TabIndex = 2;
-            this.comboBox2.Tag = "Level";
+            this.lvlBox1.FormattingEnabled = true;
+            this.lvlBox1.Location = new System.Drawing.Point(133, 120);
+            this.lvlBox1.Name = "lvlBox1";
+            this.lvlBox1.Size = new System.Drawing.Size(38, 21);
+            this.lvlBox1.Sorted = true;
+            this.lvlBox1.TabIndex = 2;
+            this.lvlBox1.Tag = "Level";
             // 
-            // comboBox1
+            // styleBox1
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(6, 120);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(121, 21);
-            this.comboBox1.Sorted = true;
-            this.comboBox1.TabIndex = 1;
-            this.comboBox1.Tag = "Style";
+            this.styleBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.styleBox1.FormattingEnabled = true;
+            this.styleBox1.Location = new System.Drawing.Point(6, 120);
+            this.styleBox1.Name = "styleBox1";
+            this.styleBox1.Size = new System.Drawing.Size(121, 21);
+            this.styleBox1.Sorted = true;
+            this.styleBox1.TabIndex = 1;
+            this.styleBox1.Tag = "Style";
             // 
-            // button1
+            // finButt1
             // 
-            this.button1.Location = new System.Drawing.Point(101, 247);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "Finish turn";
-            this.button1.UseVisualStyleBackColor = true;
+            this.finButt1.Location = new System.Drawing.Point(101, 247);
+            this.finButt1.Name = "finButt1";
+            this.finButt1.Size = new System.Drawing.Size(75, 23);
+            this.finButt1.TabIndex = 0;
+            this.finButt1.Text = "Finish turn";
+            this.finButt1.UseVisualStyleBackColor = true;
             // 
-            // groupBox3
+            // groupBox2
             // 
-            this.groupBox3.Controls.Add(this.button7);
-            this.groupBox3.Controls.Add(this.checkBox4);
-            this.groupBox3.Controls.Add(this.comboBox14);
-            this.groupBox3.Controls.Add(this.textBox4);
-            this.groupBox3.Controls.Add(this.label11);
-            this.groupBox3.Controls.Add(this.label12);
-            this.groupBox3.Controls.Add(this.textBox5);
-            this.groupBox3.Controls.Add(this.comboBox11);
-            this.groupBox3.Controls.Add(this.label7);
-            this.groupBox3.Controls.Add(this.label2);
-            this.groupBox3.Controls.Add(this.comboBox3);
-            this.groupBox3.Controls.Add(this.comboBox4);
-            this.groupBox3.Controls.Add(this.button3);
-            this.groupBox3.Location = new System.Drawing.Point(753, 52);
-            this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(182, 276);
-            this.groupBox3.TabIndex = 6;
-            this.groupBox3.TabStop = false;
-            this.groupBox3.Text = "Blue Player 1";
+            this.groupBox2.Controls.Add(this.fatButt2);
+            this.groupBox2.Controls.Add(this.checkBox2);
+            this.groupBox2.Controls.Add(this.targetBox2);
+            this.groupBox2.Controls.Add(this.hpBox2);
+            this.groupBox2.Controls.Add(this.label11);
+            this.groupBox2.Controls.Add(this.label12);
+            this.groupBox2.Controls.Add(this.apBox2);
+            this.groupBox2.Controls.Add(this.actionBox2);
+            this.groupBox2.Controls.Add(this.label7);
+            this.groupBox2.Controls.Add(this.label2);
+            this.groupBox2.Controls.Add(this.lvlBox2);
+            this.groupBox2.Controls.Add(this.styleBox2);
+            this.groupBox2.Controls.Add(this.finButt2);
+            this.groupBox2.Location = new System.Drawing.Point(753, 52);
+            this.groupBox2.Name = "groupBox2";
+            this.groupBox2.Size = new System.Drawing.Size(182, 276);
+            this.groupBox2.TabIndex = 6;
+            this.groupBox2.TabStop = false;
+            this.groupBox2.Text = "Blue Player 1";
             // 
-            // button7
+            // fatButt2
             // 
-            this.button7.Location = new System.Drawing.Point(6, 247);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(75, 23);
-            this.button7.TabIndex = 19;
-            this.button7.Text = "Use Fatum";
-            this.button7.UseVisualStyleBackColor = true;
+            this.fatButt2.Location = new System.Drawing.Point(6, 247);
+            this.fatButt2.Name = "fatButt2";
+            this.fatButt2.Size = new System.Drawing.Size(75, 23);
+            this.fatButt2.TabIndex = 19;
+            this.fatButt2.Text = "Use Fatum";
+            this.fatButt2.UseVisualStyleBackColor = true;
             // 
-            // checkBox4
+            // checkBox2
             // 
-            this.checkBox4.AutoSize = true;
-            this.checkBox4.CheckAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.checkBox4.Location = new System.Drawing.Point(12, 218);
-            this.checkBox4.Name = "checkBox4";
-            this.checkBox4.Size = new System.Drawing.Size(55, 17);
-            this.checkBox4.TabIndex = 18;
-            this.checkBox4.Tag = "Fatum";
-            this.checkBox4.Text = "Fatum";
-            this.checkBox4.UseVisualStyleBackColor = true;
+            this.checkBox2.AutoSize = true;
+            this.checkBox2.CheckAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.checkBox2.Location = new System.Drawing.Point(12, 218);
+            this.checkBox2.Name = "checkBox2";
+            this.checkBox2.Size = new System.Drawing.Size(55, 17);
+            this.checkBox2.TabIndex = 18;
+            this.checkBox2.Tag = "Fatum";
+            this.checkBox2.Text = "Fatum";
+            this.checkBox2.UseVisualStyleBackColor = true;
             // 
-            // comboBox14
+            // targetBox2
             // 
-            this.comboBox14.FormattingEnabled = true;
-            this.comboBox14.Location = new System.Drawing.Point(136, 180);
-            this.comboBox14.Name = "comboBox14";
-            this.comboBox14.Size = new System.Drawing.Size(38, 21);
-            this.comboBox14.Sorted = true;
-            this.comboBox14.TabIndex = 17;
-            this.comboBox14.Tag = "Target";
+            this.targetBox2.FormattingEnabled = true;
+            this.targetBox2.Location = new System.Drawing.Point(136, 180);
+            this.targetBox2.Name = "targetBox2";
+            this.targetBox2.Size = new System.Drawing.Size(38, 21);
+            this.targetBox2.Sorted = true;
+            this.targetBox2.TabIndex = 17;
+            this.targetBox2.Tag = "Target";
             // 
-            // textBox4
+            // hpBox2
             // 
-            this.textBox4.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.hpBox2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox4.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox4.Font = new System.Drawing.Font("Courier New", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox4.Location = new System.Drawing.Point(76, 27);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.ReadOnly = true;
-            this.textBox4.Size = new System.Drawing.Size(54, 20);
-            this.textBox4.TabIndex = 16;
-            this.textBox4.Tag = "HP";
-            this.textBox4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.hpBox2.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.hpBox2.Font = new System.Drawing.Font("Courier New", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.hpBox2.Location = new System.Drawing.Point(76, 27);
+            this.hpBox2.Name = "hpBox2";
+            this.hpBox2.ReadOnly = true;
+            this.hpBox2.Size = new System.Drawing.Size(54, 20);
+            this.hpBox2.TabIndex = 16;
+            this.hpBox2.Tag = "HP";
+            this.hpBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // label11
             // 
@@ -3280,30 +3293,30 @@
             this.label12.TabIndex = 14;
             this.label12.Text = "Endurance:";
             // 
-            // textBox5
+            // apBox2
             // 
-            this.textBox5.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.apBox2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox5.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox5.Font = new System.Drawing.Font("Courier New", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox5.Location = new System.Drawing.Point(76, 66);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.ReadOnly = true;
-            this.textBox5.Size = new System.Drawing.Size(54, 20);
-            this.textBox5.TabIndex = 13;
-            this.textBox5.Tag = "AP";
-            this.textBox5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.apBox2.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.apBox2.Font = new System.Drawing.Font("Courier New", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.apBox2.Location = new System.Drawing.Point(76, 66);
+            this.apBox2.Name = "apBox2";
+            this.apBox2.ReadOnly = true;
+            this.apBox2.Size = new System.Drawing.Size(54, 20);
+            this.apBox2.TabIndex = 13;
+            this.apBox2.Tag = "AP";
+            this.apBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // comboBox11
+            // actionBox2
             // 
-            this.comboBox11.FormattingEnabled = true;
-            this.comboBox11.Location = new System.Drawing.Point(9, 180);
-            this.comboBox11.Name = "comboBox11";
-            this.comboBox11.Size = new System.Drawing.Size(121, 21);
-            this.comboBox11.Sorted = true;
-            this.comboBox11.TabIndex = 9;
-            this.comboBox11.Tag = "Action";
+            this.actionBox2.FormattingEnabled = true;
+            this.actionBox2.Location = new System.Drawing.Point(9, 180);
+            this.actionBox2.Name = "actionBox2";
+            this.actionBox2.Size = new System.Drawing.Size(121, 21);
+            this.actionBox2.Sorted = true;
+            this.actionBox2.TabIndex = 9;
+            this.actionBox2.Tag = "Action";
             // 
             // label7
             // 
@@ -3323,112 +3336,113 @@
             this.label2.TabIndex = 5;
             this.label2.Text = "Technique and Rank";
             // 
-            // comboBox3
+            // lvlBox2
             // 
-            this.comboBox3.FormattingEnabled = true;
-            this.comboBox3.Location = new System.Drawing.Point(136, 120);
-            this.comboBox3.Name = "comboBox3";
-            this.comboBox3.Size = new System.Drawing.Size(38, 21);
-            this.comboBox3.Sorted = true;
-            this.comboBox3.TabIndex = 4;
-            this.comboBox3.Tag = "Level";
+            this.lvlBox2.FormattingEnabled = true;
+            this.lvlBox2.Location = new System.Drawing.Point(136, 120);
+            this.lvlBox2.Name = "lvlBox2";
+            this.lvlBox2.Size = new System.Drawing.Size(38, 21);
+            this.lvlBox2.Sorted = true;
+            this.lvlBox2.TabIndex = 4;
+            this.lvlBox2.Tag = "Level";
             // 
-            // comboBox4
+            // styleBox2
             // 
-            this.comboBox4.FormattingEnabled = true;
-            this.comboBox4.Location = new System.Drawing.Point(9, 120);
-            this.comboBox4.Name = "comboBox4";
-            this.comboBox4.Size = new System.Drawing.Size(121, 21);
-            this.comboBox4.Sorted = true;
-            this.comboBox4.TabIndex = 3;
-            this.comboBox4.Tag = "Style";
+            this.styleBox2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.styleBox2.FormattingEnabled = true;
+            this.styleBox2.Location = new System.Drawing.Point(9, 120);
+            this.styleBox2.Name = "styleBox2";
+            this.styleBox2.Size = new System.Drawing.Size(121, 21);
+            this.styleBox2.Sorted = true;
+            this.styleBox2.TabIndex = 3;
+            this.styleBox2.Tag = "Style";
             // 
-            // button3
+            // finButt2
             // 
-            this.button3.Location = new System.Drawing.Point(101, 247);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(75, 23);
-            this.button3.TabIndex = 2;
-            this.button3.Text = "Finish turn";
-            this.button3.UseVisualStyleBackColor = true;
+            this.finButt2.Location = new System.Drawing.Point(101, 247);
+            this.finButt2.Name = "finButt2";
+            this.finButt2.Size = new System.Drawing.Size(75, 23);
+            this.finButt2.TabIndex = 2;
+            this.finButt2.Text = "Finish turn";
+            this.finButt2.UseVisualStyleBackColor = true;
             // 
-            // groupBox4
+            // groupBox3
             // 
-            this.groupBox4.Controls.Add(this.button6);
-            this.groupBox4.Controls.Add(this.checkBox2);
-            this.groupBox4.Controls.Add(this.comboBox15);
-            this.groupBox4.Controls.Add(this.textBox6);
-            this.groupBox4.Controls.Add(this.comboBox9);
-            this.groupBox4.Controls.Add(this.label13);
-            this.groupBox4.Controls.Add(this.label5);
-            this.groupBox4.Controls.Add(this.label14);
-            this.groupBox4.Controls.Add(this.textBox7);
-            this.groupBox4.Controls.Add(this.label3);
-            this.groupBox4.Controls.Add(this.comboBox5);
-            this.groupBox4.Controls.Add(this.comboBox6);
-            this.groupBox4.Controls.Add(this.button2);
-            this.groupBox4.Location = new System.Drawing.Point(12, 334);
-            this.groupBox4.Name = "groupBox4";
-            this.groupBox4.Size = new System.Drawing.Size(182, 283);
-            this.groupBox4.TabIndex = 7;
-            this.groupBox4.TabStop = false;
-            this.groupBox4.Text = "Red Player 2";
+            this.groupBox3.Controls.Add(this.fatButt3);
+            this.groupBox3.Controls.Add(this.checkBox3);
+            this.groupBox3.Controls.Add(this.targetBox3);
+            this.groupBox3.Controls.Add(this.hpBox3);
+            this.groupBox3.Controls.Add(this.actionBox3);
+            this.groupBox3.Controls.Add(this.label13);
+            this.groupBox3.Controls.Add(this.label5);
+            this.groupBox3.Controls.Add(this.label14);
+            this.groupBox3.Controls.Add(this.apBox3);
+            this.groupBox3.Controls.Add(this.label3);
+            this.groupBox3.Controls.Add(this.lvlBox3);
+            this.groupBox3.Controls.Add(this.styleBox3);
+            this.groupBox3.Controls.Add(this.finButt3);
+            this.groupBox3.Location = new System.Drawing.Point(12, 334);
+            this.groupBox3.Name = "groupBox3";
+            this.groupBox3.Size = new System.Drawing.Size(182, 283);
+            this.groupBox3.TabIndex = 7;
+            this.groupBox3.TabStop = false;
+            this.groupBox3.Text = "Red Player 2";
             // 
-            // button6
+            // fatButt3
             // 
-            this.button6.Location = new System.Drawing.Point(6, 254);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(75, 23);
-            this.button6.TabIndex = 23;
-            this.button6.Text = "Use Fatum";
-            this.button6.UseVisualStyleBackColor = true;
+            this.fatButt3.Location = new System.Drawing.Point(6, 254);
+            this.fatButt3.Name = "fatButt3";
+            this.fatButt3.Size = new System.Drawing.Size(75, 23);
+            this.fatButt3.TabIndex = 23;
+            this.fatButt3.Text = "Use Fatum";
+            this.fatButt3.UseVisualStyleBackColor = true;
             // 
-            // checkBox2
+            // checkBox3
             // 
-            this.checkBox2.AutoSize = true;
-            this.checkBox2.CheckAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.checkBox2.Location = new System.Drawing.Point(9, 219);
-            this.checkBox2.Name = "checkBox2";
-            this.checkBox2.Size = new System.Drawing.Size(55, 17);
-            this.checkBox2.TabIndex = 22;
-            this.checkBox2.Tag = "Fatum";
-            this.checkBox2.Text = "Fatum";
-            this.checkBox2.UseVisualStyleBackColor = true;
+            this.checkBox3.AutoSize = true;
+            this.checkBox3.CheckAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.checkBox3.Location = new System.Drawing.Point(9, 219);
+            this.checkBox3.Name = "checkBox3";
+            this.checkBox3.Size = new System.Drawing.Size(55, 17);
+            this.checkBox3.TabIndex = 22;
+            this.checkBox3.Tag = "Fatum";
+            this.checkBox3.Text = "Fatum";
+            this.checkBox3.UseVisualStyleBackColor = true;
             // 
-            // comboBox15
+            // targetBox3
             // 
-            this.comboBox15.FormattingEnabled = true;
-            this.comboBox15.Location = new System.Drawing.Point(133, 178);
-            this.comboBox15.Name = "comboBox15";
-            this.comboBox15.Size = new System.Drawing.Size(38, 21);
-            this.comboBox15.Sorted = true;
-            this.comboBox15.TabIndex = 21;
-            this.comboBox15.Tag = "Target";
+            this.targetBox3.FormattingEnabled = true;
+            this.targetBox3.Location = new System.Drawing.Point(133, 178);
+            this.targetBox3.Name = "targetBox3";
+            this.targetBox3.Size = new System.Drawing.Size(38, 21);
+            this.targetBox3.Sorted = true;
+            this.targetBox3.TabIndex = 21;
+            this.targetBox3.Tag = "Target";
             // 
-            // textBox6
+            // hpBox3
             // 
-            this.textBox6.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.hpBox3.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox6.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox6.Font = new System.Drawing.Font("Courier New", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox6.Location = new System.Drawing.Point(73, 32);
-            this.textBox6.Name = "textBox6";
-            this.textBox6.ReadOnly = true;
-            this.textBox6.Size = new System.Drawing.Size(54, 20);
-            this.textBox6.TabIndex = 20;
-            this.textBox6.Tag = "HP";
-            this.textBox6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.hpBox3.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.hpBox3.Font = new System.Drawing.Font("Courier New", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.hpBox3.Location = new System.Drawing.Point(73, 32);
+            this.hpBox3.Name = "hpBox3";
+            this.hpBox3.ReadOnly = true;
+            this.hpBox3.Size = new System.Drawing.Size(54, 20);
+            this.hpBox3.TabIndex = 20;
+            this.hpBox3.Tag = "HP";
+            this.hpBox3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // comboBox9
+            // actionBox3
             // 
-            this.comboBox9.FormattingEnabled = true;
-            this.comboBox9.Location = new System.Drawing.Point(6, 178);
-            this.comboBox9.Name = "comboBox9";
-            this.comboBox9.Size = new System.Drawing.Size(121, 21);
-            this.comboBox9.Sorted = true;
-            this.comboBox9.TabIndex = 7;
-            this.comboBox9.Tag = "Action";
+            this.actionBox3.FormattingEnabled = true;
+            this.actionBox3.Location = new System.Drawing.Point(6, 178);
+            this.actionBox3.Name = "actionBox3";
+            this.actionBox3.Size = new System.Drawing.Size(121, 21);
+            this.actionBox3.Sorted = true;
+            this.actionBox3.TabIndex = 7;
+            this.actionBox3.Tag = "Action";
             // 
             // label13
             // 
@@ -3457,20 +3471,20 @@
             this.label14.TabIndex = 18;
             this.label14.Text = "Endurance:";
             // 
-            // textBox7
+            // apBox3
             // 
-            this.textBox7.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.apBox3.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox7.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox7.Font = new System.Drawing.Font("Courier New", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox7.Location = new System.Drawing.Point(73, 71);
-            this.textBox7.Name = "textBox7";
-            this.textBox7.ReadOnly = true;
-            this.textBox7.Size = new System.Drawing.Size(54, 20);
-            this.textBox7.TabIndex = 17;
-            this.textBox7.Tag = "AP";
-            this.textBox7.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.apBox3.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.apBox3.Font = new System.Drawing.Font("Courier New", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.apBox3.Location = new System.Drawing.Point(73, 71);
+            this.apBox3.Name = "apBox3";
+            this.apBox3.ReadOnly = true;
+            this.apBox3.Size = new System.Drawing.Size(54, 20);
+            this.apBox3.TabIndex = 17;
+            this.apBox3.Tag = "AP";
+            this.apBox3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // label3
             // 
@@ -3481,112 +3495,113 @@
             this.label3.TabIndex = 5;
             this.label3.Text = "Technique and Rank";
             // 
-            // comboBox5
+            // lvlBox3
             // 
-            this.comboBox5.FormattingEnabled = true;
-            this.comboBox5.Location = new System.Drawing.Point(133, 126);
-            this.comboBox5.Name = "comboBox5";
-            this.comboBox5.Size = new System.Drawing.Size(38, 21);
-            this.comboBox5.Sorted = true;
-            this.comboBox5.TabIndex = 4;
-            this.comboBox5.Tag = "Level";
+            this.lvlBox3.FormattingEnabled = true;
+            this.lvlBox3.Location = new System.Drawing.Point(133, 126);
+            this.lvlBox3.Name = "lvlBox3";
+            this.lvlBox3.Size = new System.Drawing.Size(38, 21);
+            this.lvlBox3.Sorted = true;
+            this.lvlBox3.TabIndex = 4;
+            this.lvlBox3.Tag = "Level";
             // 
-            // comboBox6
+            // styleBox3
             // 
-            this.comboBox6.FormattingEnabled = true;
-            this.comboBox6.Location = new System.Drawing.Point(6, 126);
-            this.comboBox6.Name = "comboBox6";
-            this.comboBox6.Size = new System.Drawing.Size(121, 21);
-            this.comboBox6.Sorted = true;
-            this.comboBox6.TabIndex = 3;
-            this.comboBox6.Tag = "Style";
+            this.styleBox3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.styleBox3.FormattingEnabled = true;
+            this.styleBox3.Location = new System.Drawing.Point(6, 126);
+            this.styleBox3.Name = "styleBox3";
+            this.styleBox3.Size = new System.Drawing.Size(121, 21);
+            this.styleBox3.Sorted = true;
+            this.styleBox3.TabIndex = 3;
+            this.styleBox3.Tag = "Style";
             // 
-            // button2
+            // finButt3
             // 
-            this.button2.Location = new System.Drawing.Point(101, 254);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
-            this.button2.TabIndex = 1;
-            this.button2.Text = "Finish turn";
-            this.button2.UseVisualStyleBackColor = true;
+            this.finButt3.Location = new System.Drawing.Point(101, 254);
+            this.finButt3.Name = "finButt3";
+            this.finButt3.Size = new System.Drawing.Size(75, 23);
+            this.finButt3.TabIndex = 1;
+            this.finButt3.Text = "Finish turn";
+            this.finButt3.UseVisualStyleBackColor = true;
             // 
-            // groupBox5
+            // groupBox4
             // 
-            this.groupBox5.Controls.Add(this.button8);
-            this.groupBox5.Controls.Add(this.checkBox3);
-            this.groupBox5.Controls.Add(this.comboBox16);
-            this.groupBox5.Controls.Add(this.textBox8);
-            this.groupBox5.Controls.Add(this.comboBox12);
-            this.groupBox5.Controls.Add(this.label15);
-            this.groupBox5.Controls.Add(this.label8);
-            this.groupBox5.Controls.Add(this.label16);
-            this.groupBox5.Controls.Add(this.textBox9);
-            this.groupBox5.Controls.Add(this.label4);
-            this.groupBox5.Controls.Add(this.comboBox7);
-            this.groupBox5.Controls.Add(this.button4);
-            this.groupBox5.Controls.Add(this.comboBox8);
-            this.groupBox5.Location = new System.Drawing.Point(753, 334);
-            this.groupBox5.Name = "groupBox5";
-            this.groupBox5.Size = new System.Drawing.Size(182, 283);
-            this.groupBox5.TabIndex = 8;
-            this.groupBox5.TabStop = false;
-            this.groupBox5.Text = "Blue Player 2";
+            this.groupBox4.Controls.Add(this.fatButt4);
+            this.groupBox4.Controls.Add(this.checkBox4);
+            this.groupBox4.Controls.Add(this.targetBox4);
+            this.groupBox4.Controls.Add(this.hpBox4);
+            this.groupBox4.Controls.Add(this.actionBox4);
+            this.groupBox4.Controls.Add(this.label15);
+            this.groupBox4.Controls.Add(this.label8);
+            this.groupBox4.Controls.Add(this.label16);
+            this.groupBox4.Controls.Add(this.apBox4);
+            this.groupBox4.Controls.Add(this.label4);
+            this.groupBox4.Controls.Add(this.lvlBox4);
+            this.groupBox4.Controls.Add(this.finButt4);
+            this.groupBox4.Controls.Add(this.styleBox4);
+            this.groupBox4.Location = new System.Drawing.Point(753, 334);
+            this.groupBox4.Name = "groupBox4";
+            this.groupBox4.Size = new System.Drawing.Size(182, 283);
+            this.groupBox4.TabIndex = 8;
+            this.groupBox4.TabStop = false;
+            this.groupBox4.Text = "Blue Player 2";
             // 
-            // button8
+            // fatButt4
             // 
-            this.button8.Location = new System.Drawing.Point(6, 254);
-            this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(75, 23);
-            this.button8.TabIndex = 20;
-            this.button8.Text = "Use Fatum";
-            this.button8.UseVisualStyleBackColor = true;
+            this.fatButt4.Location = new System.Drawing.Point(6, 254);
+            this.fatButt4.Name = "fatButt4";
+            this.fatButt4.Size = new System.Drawing.Size(75, 23);
+            this.fatButt4.TabIndex = 20;
+            this.fatButt4.Text = "Use Fatum";
+            this.fatButt4.UseVisualStyleBackColor = true;
             // 
-            // checkBox3
+            // checkBox4
             // 
-            this.checkBox3.AutoSize = true;
-            this.checkBox3.CheckAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.checkBox3.Location = new System.Drawing.Point(12, 219);
-            this.checkBox3.Name = "checkBox3";
-            this.checkBox3.Size = new System.Drawing.Size(55, 17);
-            this.checkBox3.TabIndex = 23;
-            this.checkBox3.Tag = "Fatum";
-            this.checkBox3.Text = "Fatum";
-            this.checkBox3.UseVisualStyleBackColor = true;
+            this.checkBox4.AutoSize = true;
+            this.checkBox4.CheckAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.checkBox4.Location = new System.Drawing.Point(12, 219);
+            this.checkBox4.Name = "checkBox4";
+            this.checkBox4.Size = new System.Drawing.Size(55, 17);
+            this.checkBox4.TabIndex = 23;
+            this.checkBox4.Tag = "Fatum";
+            this.checkBox4.Text = "Fatum";
+            this.checkBox4.UseVisualStyleBackColor = true;
             // 
-            // comboBox16
+            // targetBox4
             // 
-            this.comboBox16.FormattingEnabled = true;
-            this.comboBox16.Location = new System.Drawing.Point(136, 178);
-            this.comboBox16.Name = "comboBox16";
-            this.comboBox16.Size = new System.Drawing.Size(38, 21);
-            this.comboBox16.Sorted = true;
-            this.comboBox16.TabIndex = 25;
-            this.comboBox16.Tag = "Target";
+            this.targetBox4.FormattingEnabled = true;
+            this.targetBox4.Location = new System.Drawing.Point(136, 178);
+            this.targetBox4.Name = "targetBox4";
+            this.targetBox4.Size = new System.Drawing.Size(38, 21);
+            this.targetBox4.Sorted = true;
+            this.targetBox4.TabIndex = 25;
+            this.targetBox4.Tag = "Target";
             // 
-            // textBox8
+            // hpBox4
             // 
-            this.textBox8.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.hpBox4.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox8.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox8.Font = new System.Drawing.Font("Courier New", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox8.Location = new System.Drawing.Point(76, 32);
-            this.textBox8.Name = "textBox8";
-            this.textBox8.ReadOnly = true;
-            this.textBox8.Size = new System.Drawing.Size(54, 20);
-            this.textBox8.TabIndex = 24;
-            this.textBox8.Tag = "HP";
-            this.textBox8.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.hpBox4.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.hpBox4.Font = new System.Drawing.Font("Courier New", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.hpBox4.Location = new System.Drawing.Point(76, 32);
+            this.hpBox4.Name = "hpBox4";
+            this.hpBox4.ReadOnly = true;
+            this.hpBox4.Size = new System.Drawing.Size(54, 20);
+            this.hpBox4.TabIndex = 24;
+            this.hpBox4.Tag = "HP";
+            this.hpBox4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // comboBox12
+            // actionBox4
             // 
-            this.comboBox12.FormattingEnabled = true;
-            this.comboBox12.Location = new System.Drawing.Point(9, 178);
-            this.comboBox12.Name = "comboBox12";
-            this.comboBox12.Size = new System.Drawing.Size(121, 21);
-            this.comboBox12.Sorted = true;
-            this.comboBox12.TabIndex = 10;
-            this.comboBox12.Tag = "Action";
+            this.actionBox4.FormattingEnabled = true;
+            this.actionBox4.Location = new System.Drawing.Point(9, 178);
+            this.actionBox4.Name = "actionBox4";
+            this.actionBox4.Size = new System.Drawing.Size(121, 21);
+            this.actionBox4.Sorted = true;
+            this.actionBox4.TabIndex = 10;
+            this.actionBox4.Tag = "Action";
             // 
             // label15
             // 
@@ -3615,20 +3630,20 @@
             this.label16.TabIndex = 22;
             this.label16.Text = "Endurance:";
             // 
-            // textBox9
+            // apBox4
             // 
-            this.textBox9.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.apBox4.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox9.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox9.Font = new System.Drawing.Font("Courier New", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox9.Location = new System.Drawing.Point(76, 71);
-            this.textBox9.Name = "textBox9";
-            this.textBox9.ReadOnly = true;
-            this.textBox9.Size = new System.Drawing.Size(54, 20);
-            this.textBox9.TabIndex = 21;
-            this.textBox9.Tag = "AP";
-            this.textBox9.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.apBox4.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.apBox4.Font = new System.Drawing.Font("Courier New", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.apBox4.Location = new System.Drawing.Point(76, 71);
+            this.apBox4.Name = "apBox4";
+            this.apBox4.ReadOnly = true;
+            this.apBox4.Size = new System.Drawing.Size(54, 20);
+            this.apBox4.TabIndex = 21;
+            this.apBox4.Tag = "AP";
+            this.apBox4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // label4
             // 
@@ -3639,35 +3654,36 @@
             this.label4.TabIndex = 7;
             this.label4.Text = "Technique and Rank";
             // 
-            // comboBox7
+            // lvlBox4
             // 
-            this.comboBox7.AllowDrop = true;
-            this.comboBox7.FormattingEnabled = true;
-            this.comboBox7.Location = new System.Drawing.Point(136, 126);
-            this.comboBox7.Name = "comboBox7";
-            this.comboBox7.Size = new System.Drawing.Size(38, 21);
-            this.comboBox7.Sorted = true;
-            this.comboBox7.TabIndex = 6;
-            this.comboBox7.Tag = "Level";
+            this.lvlBox4.AllowDrop = true;
+            this.lvlBox4.FormattingEnabled = true;
+            this.lvlBox4.Location = new System.Drawing.Point(136, 126);
+            this.lvlBox4.Name = "lvlBox4";
+            this.lvlBox4.Size = new System.Drawing.Size(38, 21);
+            this.lvlBox4.Sorted = true;
+            this.lvlBox4.TabIndex = 6;
+            this.lvlBox4.Tag = "Level";
             // 
-            // button4
+            // finButt4
             // 
-            this.button4.Location = new System.Drawing.Point(101, 254);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(75, 23);
-            this.button4.TabIndex = 3;
-            this.button4.Text = "Finish turn";
-            this.button4.UseVisualStyleBackColor = true;
+            this.finButt4.Location = new System.Drawing.Point(101, 254);
+            this.finButt4.Name = "finButt4";
+            this.finButt4.Size = new System.Drawing.Size(75, 23);
+            this.finButt4.TabIndex = 3;
+            this.finButt4.Text = "Finish turn";
+            this.finButt4.UseVisualStyleBackColor = true;
             // 
-            // comboBox8
+            // styleBox4
             // 
-            this.comboBox8.FormattingEnabled = true;
-            this.comboBox8.Location = new System.Drawing.Point(9, 126);
-            this.comboBox8.Name = "comboBox8";
-            this.comboBox8.Size = new System.Drawing.Size(121, 21);
-            this.comboBox8.Sorted = true;
-            this.comboBox8.TabIndex = 5;
-            this.comboBox8.Tag = "Style";
+            this.styleBox4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.styleBox4.FormattingEnabled = true;
+            this.styleBox4.Location = new System.Drawing.Point(9, 126);
+            this.styleBox4.Name = "styleBox4";
+            this.styleBox4.Size = new System.Drawing.Size(121, 21);
+            this.styleBox4.Sorted = true;
+            this.styleBox4.TabIndex = 5;
+            this.styleBox4.Tag = "Style";
             // 
             // statusStrip1
             // 
@@ -3686,16 +3702,6 @@
             this.toolStripStatusLabel1.Size = new System.Drawing.Size(38, 17);
             this.toolStripStatusLabel1.Text = "Turn: ";
             // 
-            // toolStripComboBox1
-            // 
-            this.toolStripComboBox1.Items.AddRange(new object[] {
-            "2 players",
-            "3 players",
-            "4 players"});
-            this.toolStripComboBox1.MaxDropDownItems = 3;
-            this.toolStripComboBox1.Name = "toolStripComboBox1";
-            this.toolStripComboBox1.Size = new System.Drawing.Size(75, 25);
-            // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -3704,11 +3710,11 @@
             this.BackColor = System.Drawing.SystemColors.Control;
             this.ClientSize = new System.Drawing.Size(948, 640);
             this.Controls.Add(this.statusStrip1);
-            this.Controls.Add(this.groupBox5);
             this.Controls.Add(this.groupBox4);
             this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
+            this.Controls.Add(this.battleBox);
             this.Controls.Add(this.tableLayoutPanel1);
             this.Controls.Add(this.toolStrip1);
             this.Controls.Add(this.menuStrip1);
@@ -3722,15 +3728,15 @@
             this.tableLayoutPanel1.ResumeLayout(false);
             this.toolStrip1.ResumeLayout(false);
             this.toolStrip1.PerformLayout();
+            this.battleBox.ResumeLayout(false);
             this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
             this.groupBox3.ResumeLayout(false);
             this.groupBox3.PerformLayout();
             this.groupBox4.ResumeLayout(false);
             this.groupBox4.PerformLayout();
-            this.groupBox5.ResumeLayout(false);
-            this.groupBox5.PerformLayout();
             this.statusStrip1.ResumeLayout(false);
             this.statusStrip1.PerformLayout();
             this.ResumeLayout(false);
@@ -3940,67 +3946,67 @@
         private System.Windows.Forms.Button button7_12;
         private System.Windows.Forms.Button buttonLeft7;
         private System.Windows.Forms.ToolStrip toolStrip1;
+        private System.Windows.Forms.GroupBox battleBox;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.GroupBox groupBox2;
+        private System.Windows.Forms.Button finButt1;
+        private System.Windows.Forms.Button finButt2;
         private System.Windows.Forms.GroupBox groupBox3;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button finButt3;
         private System.Windows.Forms.GroupBox groupBox4;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.GroupBox groupBox5;
-        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Button finButt4;
         private System.Windows.Forms.StatusStrip statusStrip1;
         private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel1;
         private System.Windows.Forms.ToolStripButton toolStripButton1;
         private System.Windows.Forms.ToolStripButton toolStripButton2;
-        private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.Button fatButt1;
         private System.Windows.Forms.CheckBox checkBox1;
-        private System.Windows.Forms.ComboBox comboBox13;
-        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.ComboBox targetBox1;
+        private System.Windows.Forms.TextBox apBox1;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.ComboBox comboBox10;
+        private System.Windows.Forms.TextBox hpBox1;
+        private System.Windows.Forms.ComboBox actionBox1;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.ComboBox comboBox2;
-        private System.Windows.Forms.ComboBox comboBox1;
-        private System.Windows.Forms.Button button7;
-        private System.Windows.Forms.CheckBox checkBox4;
-        private System.Windows.Forms.ComboBox comboBox14;
-        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.ComboBox lvlBox1;
+        private System.Windows.Forms.ComboBox styleBox1;
+        private System.Windows.Forms.Button fatButt2;
+        private System.Windows.Forms.CheckBox checkBox2;
+        private System.Windows.Forms.ComboBox targetBox2;
+        private System.Windows.Forms.TextBox hpBox2;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label12;
-        private System.Windows.Forms.TextBox textBox5;
-        private System.Windows.Forms.ComboBox comboBox11;
+        private System.Windows.Forms.TextBox apBox2;
+        private System.Windows.Forms.ComboBox actionBox2;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.ComboBox comboBox3;
-        private System.Windows.Forms.ComboBox comboBox4;
-        private System.Windows.Forms.Button button6;
-        private System.Windows.Forms.CheckBox checkBox2;
-        private System.Windows.Forms.ComboBox comboBox15;
-        private System.Windows.Forms.TextBox textBox6;
-        private System.Windows.Forms.ComboBox comboBox9;
+        private System.Windows.Forms.ComboBox lvlBox2;
+        private System.Windows.Forms.ComboBox styleBox2;
+        private System.Windows.Forms.Button fatButt3;
+        private System.Windows.Forms.CheckBox checkBox3;
+        private System.Windows.Forms.ComboBox targetBox3;
+        private System.Windows.Forms.TextBox hpBox3;
+        private System.Windows.Forms.ComboBox actionBox3;
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label14;
-        private System.Windows.Forms.TextBox textBox7;
+        private System.Windows.Forms.TextBox apBox3;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.ComboBox comboBox5;
-        private System.Windows.Forms.ComboBox comboBox6;
-        private System.Windows.Forms.Button button8;
-        private System.Windows.Forms.CheckBox checkBox3;
-        private System.Windows.Forms.ComboBox comboBox16;
-        private System.Windows.Forms.TextBox textBox8;
-        private System.Windows.Forms.ComboBox comboBox12;
+        private System.Windows.Forms.ComboBox lvlBox3;
+        private System.Windows.Forms.ComboBox styleBox3;
+        private System.Windows.Forms.Button fatButt4;
+        private System.Windows.Forms.CheckBox checkBox4;
+        private System.Windows.Forms.ComboBox targetBox4;
+        private System.Windows.Forms.TextBox hpBox4;
+        private System.Windows.Forms.ComboBox actionBox4;
         private System.Windows.Forms.Label label15;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label16;
-        private System.Windows.Forms.TextBox textBox9;
+        private System.Windows.Forms.TextBox apBox4;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.ComboBox comboBox7;
-        private System.Windows.Forms.ComboBox comboBox8;
+        private System.Windows.Forms.ComboBox lvlBox4;
+        private System.Windows.Forms.ComboBox styleBox4;
         private System.Windows.Forms.ListBox BattleLog;
         private System.Windows.Forms.ToolStripComboBox toolStripComboBox1;
     }

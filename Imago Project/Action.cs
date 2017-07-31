@@ -12,7 +12,6 @@ namespace Imago_Project
         private string name;
         private int cost;
         private bool reaction;
-        Die die;
 
         public Action(int ID, string Name, int Cost, bool Reaction)
         {
@@ -30,5 +29,12 @@ namespace Imago_Project
                 return true;
             else return false;
         }
+
+        public int Damage()
+        {
+            int damage = die.Roll() + die.Roll();
+            return damage;
+        }
+
     }
 }

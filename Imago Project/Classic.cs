@@ -12,23 +12,31 @@ namespace Imago_Project
         //тут тот же new Classic как-то тупо, не? И еще класс Класик не видит класс Экшон, правильно?
         //Но по плану должен
 
-        Die die;
+        public Classic()
+        {
+            styleName = "Classic";
+            actions.Add(new Action(1, "Lunge attack", 4, false));
+            actions.Add(new Action(2, "Counter-attack", 4, true));
+            actions.Add(new Action(3, "Clean parry", 3, true));
+            actions.Add(new Action(4, "Swing", 2, false));
+            actions.Add(new Action(5, "Proper stance", 2, false));
+        }
 
         public Classic(int PlayerID, int Level)
         {
-            this.styleID = PlayerID;
-            this.styleName = "Classic";
-            this.level = Level;
-            this.actions.Add(new Action(1, "Атакуючий випад", 4, false));
-            this.actions.Add(new Action(2, "Контратака", 4, true));
-            this.actions.Add(new Action(3, "Чистий блок", 3, true));
-            this.actions.Add(new Action(4, "Взмах", 2, false));
-            this.actions.Add(new Action(5, "Правильна стійка", 2, false));
+            styleID = PlayerID;
+            styleName = "Classic";
+            level = Level;
+            actions.Add(new Action(1, "Lunge attack", 4, false));
+            actions.Add(new Action(2, "Counter-attack", 4, true));
+            actions.Add(new Action(3, "Clean parry", 3, true));
+            actions.Add(new Action(4, "Swing", 2, false));
+            actions.Add(new Action(5, "Proper stance", 2, false));
         }
 
-        public int Attack()
+        public int Lunge()
         {
-            int damage = die.Roll() + die.Roll();
+            int damage = 0;// Damage();
             return damage;
         }
     }
