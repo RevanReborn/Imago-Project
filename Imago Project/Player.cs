@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Imago_Project
 {
-    class Player
+    public class Player
     {
         int count;
         int team;

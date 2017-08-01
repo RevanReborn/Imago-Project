@@ -3063,6 +3063,7 @@
             this.groupBox1.Controls.Add(this.lvlBox1);
             this.groupBox1.Controls.Add(this.styleBox1);
             this.groupBox1.Controls.Add(this.finButt1);
+            this.groupBox1.Enabled = false;
             this.groupBox1.Location = new System.Drawing.Point(12, 52);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(182, 276);
@@ -3093,6 +3094,7 @@
             // 
             // targetBox1
             // 
+            this.targetBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.targetBox1.FormattingEnabled = true;
             this.targetBox1.Location = new System.Drawing.Point(133, 180);
             this.targetBox1.Name = "targetBox1";
@@ -3151,6 +3153,7 @@
             // 
             // actionBox1
             // 
+            this.actionBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.actionBox1.FormattingEnabled = true;
             this.actionBox1.Location = new System.Drawing.Point(6, 180);
             this.actionBox1.Name = "actionBox1";
@@ -3179,6 +3182,7 @@
             // 
             // lvlBox1
             // 
+            this.lvlBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.lvlBox1.FormattingEnabled = true;
             this.lvlBox1.Location = new System.Drawing.Point(133, 120);
             this.lvlBox1.Name = "lvlBox1";
@@ -3222,6 +3226,7 @@
             this.groupBox2.Controls.Add(this.lvlBox2);
             this.groupBox2.Controls.Add(this.styleBox2);
             this.groupBox2.Controls.Add(this.finButt2);
+            this.groupBox2.Enabled = false;
             this.groupBox2.Location = new System.Drawing.Point(753, 52);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(182, 276);
@@ -3252,6 +3257,7 @@
             // 
             // targetBox2
             // 
+            this.targetBox2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.targetBox2.FormattingEnabled = true;
             this.targetBox2.Location = new System.Drawing.Point(136, 180);
             this.targetBox2.Name = "targetBox2";
@@ -3310,6 +3316,7 @@
             // 
             // actionBox2
             // 
+            this.actionBox2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.actionBox2.FormattingEnabled = true;
             this.actionBox2.Location = new System.Drawing.Point(9, 180);
             this.actionBox2.Name = "actionBox2";
@@ -3338,6 +3345,7 @@
             // 
             // lvlBox2
             // 
+            this.lvlBox2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.lvlBox2.FormattingEnabled = true;
             this.lvlBox2.Location = new System.Drawing.Point(136, 120);
             this.lvlBox2.Name = "lvlBox2";
@@ -3381,6 +3389,7 @@
             this.groupBox3.Controls.Add(this.lvlBox3);
             this.groupBox3.Controls.Add(this.styleBox3);
             this.groupBox3.Controls.Add(this.finButt3);
+            this.groupBox3.Enabled = false;
             this.groupBox3.Location = new System.Drawing.Point(12, 334);
             this.groupBox3.Name = "groupBox3";
             this.groupBox3.Size = new System.Drawing.Size(182, 283);
@@ -3411,6 +3420,7 @@
             // 
             // targetBox3
             // 
+            this.targetBox3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.targetBox3.FormattingEnabled = true;
             this.targetBox3.Location = new System.Drawing.Point(133, 178);
             this.targetBox3.Name = "targetBox3";
@@ -3436,6 +3446,7 @@
             // 
             // actionBox3
             // 
+            this.actionBox3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.actionBox3.FormattingEnabled = true;
             this.actionBox3.Location = new System.Drawing.Point(6, 178);
             this.actionBox3.Name = "actionBox3";
@@ -3497,6 +3508,7 @@
             // 
             // lvlBox3
             // 
+            this.lvlBox3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.lvlBox3.FormattingEnabled = true;
             this.lvlBox3.Location = new System.Drawing.Point(133, 126);
             this.lvlBox3.Name = "lvlBox3";
@@ -3540,6 +3552,7 @@
             this.groupBox4.Controls.Add(this.lvlBox4);
             this.groupBox4.Controls.Add(this.finButt4);
             this.groupBox4.Controls.Add(this.styleBox4);
+            this.groupBox4.Enabled = false;
             this.groupBox4.Location = new System.Drawing.Point(753, 334);
             this.groupBox4.Name = "groupBox4";
             this.groupBox4.Size = new System.Drawing.Size(182, 283);
@@ -3570,6 +3583,7 @@
             // 
             // targetBox4
             // 
+            this.targetBox4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.targetBox4.FormattingEnabled = true;
             this.targetBox4.Location = new System.Drawing.Point(136, 178);
             this.targetBox4.Name = "targetBox4";
@@ -3595,6 +3609,7 @@
             // 
             // actionBox4
             // 
+            this.actionBox4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.actionBox4.FormattingEnabled = true;
             this.actionBox4.Location = new System.Drawing.Point(9, 178);
             this.actionBox4.Name = "actionBox4";
@@ -3657,6 +3672,7 @@
             // lvlBox4
             // 
             this.lvlBox4.AllowDrop = true;
+            this.lvlBox4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.lvlBox4.FormattingEnabled = true;
             this.lvlBox4.Location = new System.Drawing.Point(136, 126);
             this.lvlBox4.Name = "lvlBox4";
